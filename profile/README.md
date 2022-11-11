@@ -3,4 +3,4 @@ Welcome to the Detron IT Consultants Github page. On this page we share knowledg
 
 ![alt text](https://github.com/DITCOnsultants/.github/blob/main/ditco_linkedin_banner_v3%5B1%5D%5B3%5D.jpg?raw=true)
 
-For more information check [website](http://ditco.detron.nl)
+For more information check our [website](http://ditco.detron.nl)
