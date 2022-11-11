@@ -6,4 +6,4 @@ Welcome to the Detron IT Consultants Github page. On this page we share knowledg
 For more information check our [website](http://ditco.detron.nl) or [LinkedIn](https://www.linkedin.com/company/ditco-detron/mycompany/) page
 
 ### :fire: Our Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DITCO&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DITCOnsultants&fire=DD2727)](https://git.io/streak-stats)
